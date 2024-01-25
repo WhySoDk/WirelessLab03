@@ -1,3 +1,3 @@
 # lab03
 
-This is a part if ITCS424 Wireless and Mobile Computing
+This is a part of ITCS424 Wireless and Mobile Computing.
